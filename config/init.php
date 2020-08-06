@@ -1,6 +1,6 @@
 <?php
 
-define('DEBUG', 1); // mode show error - development
+define('DEBUG', 0); // mode show error - development
 define('ROOT', dirname(__DIR__)); // root directory
 define('WWW', ROOT . '/public'); // indicate public directory
 define('APP', ROOT . '/app'); // indicate app directory
