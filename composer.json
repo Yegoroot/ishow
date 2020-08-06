@@ -1,7 +1,7 @@
 {
     "autoload": {
         "psr-4": {
-            "IShow\\": "vendor/ishow/core",
+            "IShow\\": "engine/ishow/core",
             "app\\": "app"
         }
     },
